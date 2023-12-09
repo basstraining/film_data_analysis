@@ -1,4 +1,4 @@
-![logo](Happy-Sad-Theatre-Masks.jpg "Two Masks")
+![logo](Images/Happy-Sad-Theatre-Masks.jpg "Two Masks")
 
 # Analysis of ROI and Markets in Film
 
