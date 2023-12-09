@@ -1,6 +1,4 @@
-<p align="center">
-![logo](https://www.creativefabrica.com/wp-content/uploads/2018/08/Happy-Sad-Theatre-Masks.jpg)
-</p>
+![logo](https://www.creativefabrica.com/wp-content/uploads/2018/08/Happy-Sad-Theatre-Masks.jpg "Two Masks")
 
 # Analysis of ROI and Markets in Film
 
