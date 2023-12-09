@@ -1,0 +1,7 @@
+movie,runtime_minutes,genres,averagerating,numvotes,production_budget,domestic_gross,worldwide_gross,net_revenue,ROI%
+Yeh Jawaani Hai Deewani,160.0,"Comedy,Drama,Musical",7.1,33971,8300000,3827466,50827466,42527466,5.123791084337349
+The Greatest Showman,105.0,"Biography,Drama,Musical",7.6,199663,84000000,174340174,386665550,302665550,3.6031613095238093
+The Last Five Years,94.0,"Comedy,Drama,Musical",5.9,8735,2000000,147299,205298,-1794702,-0.897351
+Beauty and the Beast,129.0,"Family,Fantasy,Musical",7.2,238325,160000000,504014165,1259199706,1099199706,6.8699981625
+Burlesque,119.0,"Drama,Music,Musical",6.4,71021,55000000,39440655,90552675,35552675,0.6464122727272728
+Rock of Ages,123.0,"Comedy,Drama,Musical",5.9,69910,70000000,38518613,61031932,-8968068,-0.12811525714285715
