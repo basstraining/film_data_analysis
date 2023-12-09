@@ -40,7 +40,7 @@ In order to prepare the data for analysis, many columns wer dropped, outlier ROI
 - 10 year plan: after dozens of successful films, we can begin to make crossover films between the movie types to target an audience that watched light movies when they were younger but are older and have different tastes
 - Research on franchises specifically
 	- Do sequels of movies that perform well have higher ROI% than the normal film
-- Further: naikling ndown specific percentages for movie creation
+- Further: nailing ndown specific percentages for movie creation
 
 ## Repo Structure
 - Data
